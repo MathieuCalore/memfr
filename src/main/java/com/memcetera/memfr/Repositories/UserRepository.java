@@ -1,4 +1,4 @@
-package Repositories;
+package com.memcetera.memfr.Repositories;
 
 import com.memcetera.memfr.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
